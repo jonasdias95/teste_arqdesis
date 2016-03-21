@@ -8,6 +8,7 @@ import java.sql.SQLException;
 import to.ClienteTO;
 import factory.ConnectionFactory;
 
+
 public class ClienteDAO {
 	
 	public void incluir(ClienteTO to) {
